@@ -1,0 +1,14 @@
+test_bad_ip (test_main.DetectionTests.test_bad_ip) ... ok
+test_bad_threshold (test_main.DetectionTests.test_bad_threshold) ... ok
+test_boundary_included (test_main.DetectionTests.test_boundary_included) ... ok
+test_burst_and_success (test_main.DetectionTests.test_burst_and_success) ... ok
+test_empty (test_main.DetectionTests.test_empty) ... ok
+test_sorts_input (test_main.DetectionTests.test_sorts_input) ... ok
+test_success_resets (test_main.DetectionTests.test_success_resets) ... ok
+test_users_isolated (test_main.DetectionTests.test_users_isolated) ... ok
+test_window_expires (test_main.DetectionTests.test_window_expires) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK

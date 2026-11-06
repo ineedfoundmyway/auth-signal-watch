@@ -1,0 +1,16 @@
+[
+  {
+    "rule": "failure-burst",
+    "source_ip": "192.0.2.10",
+    "user": "student",
+    "failures": 3,
+    "timestamp": "2026-11-06T00:00:20Z"
+  },
+  {
+    "rule": "success-after-failures",
+    "source_ip": "192.0.2.10",
+    "user": "student",
+    "failures": 3,
+    "timestamp": "2026-11-06T00:00:30Z"
+  }
+]
